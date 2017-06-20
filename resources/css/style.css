@@ -1,8 +1,22 @@
 
-.header{
-  font-family: verdana;
+body{
   text-align: center;
+  font-family: verdana;
+  background-color: black;
 }
+
 a{
   color: aquamarine;
+  font-size: 16px;
+}
+
+h1{
+  color: white;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+.description{
+  color: gray;
+  font-size: 21px;
 }
